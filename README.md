@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheeddev
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning responsive web development
-- 💞️ I’m looking to collaborate on fantastic topics regards web development 
+- 👀 I’m interested in Front End Development 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on fantastic projects regards web development 
 - 📫 How to reach me on my mail gwcdheeddev@gmail.com or @DiamondIfeoluwa on twitter.
 
 <!---
